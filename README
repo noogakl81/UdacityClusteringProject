@@ -1,0 +1,10 @@
+What does this code do?
+______________________
+This code uses principal component analysis and clustering to gain insights on
+a customer database
+
+How do I run it?
+______________________
+The code and the analysis are stored in a jupyter notebook titled
+customer_segments.ipynb. It uses several functions defined in renders.py. The
+customer data is contained in the customer.csv file.
